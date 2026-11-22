@@ -64,5 +64,129 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-easyCoexistence is a company surfaced via the API Evangelist harvest backlog (source: new-submission) and added to the network as a stub for full-pipeline profiling.
-- https://easycoexistence.com
+easyCoexistence provides a multichannel API and MCP server enabling AI agents like Claude and ChatGPT to publish, schedule, and manage social media posts across platforms such as WhatsApp, Instagram, TikTok, and Facebook. It offers tools for automating replies, handling comments, reading analytics, and receiving webhooks, all billed per connection with a pay‑as‑you‑go pricing model. The service includes a dashboard for monitoring connection health and supports integration via a REST API and webhooks, targeting developers building AI‑driven social media automation.
+
+**Areas:** Company · Social Media · AI Integration · MCP Server · Automation
+
+## easyCoexistence on APIs.io
+
+Everything profiled for easyCoexistence is published on APIs.io rather than in this repository. Start at the provider page — **[apis.io/providers/easycoexistence-com/](https://apis.io/providers/easycoexistence-com/)** — or go straight to one of the APIs or properties below.
+
+### APIs (6)
+
+- [easyCoexistence Automations API](https://apis.io/apis/easycoexistence-com/easycoexistence-com-automations-api/) — The Automations API from easyCoexistence — 8 operation(s) for automations.
+- [easyCoexistence Connect sessions API](https://apis.io/apis/easycoexistence-com/easycoexistence-com-connect-sessions-api/) — The Connect sessions API from easyCoexistence — 2 operation(s) for connect sessions.
+- [easyCoexistence Events API](https://apis.io/apis/easycoexistence-com/easycoexistence-com-events-api/) — The Events API from easyCoexistence — 2 operation(s) for events.
+- [easyCoexistence Numbers API](https://apis.io/apis/easycoexistence-com/easycoexistence-com-numbers-api/) — The Numbers API from easyCoexistence — 5 operation(s) for numbers.
+- [easyCoexistence Posts API](https://apis.io/apis/easycoexistence-com/easycoexistence-com-posts-api/) — The Posts API from easyCoexistence — 5 operation(s) for posts.
+- [easyCoexistence Social channels API](https://apis.io/apis/easycoexistence-com/easycoexistence-com-social-channels-api/) — The Social channels API from easyCoexistence — 3 operation(s) for social channels.
+
+### Published properties
+
+Each property below is a page on APIs.io carrying the machine-readable artifact and what it says.
+
+#### AsyncAPI (1)
+
+Event-driven and webhook contracts.
+
+- [Easycoexistence Com Webhooks](https://apis.io/asyncapis/easycoexistence-com/easycoexistence-com-webhooks/)
+
+#### Agentic access (1)
+
+Which operations an agent can call, which act, and which need a human in the loop.
+
+- [easyCoexistence Agentic Access](https://apis.io/agentic-access/easycoexistence-com/easycoexistence-com-agentic-access/)
+
+#### JSON-LD (1)
+
+Linked-data contexts for the provider's vocabulary.
+
+- [Easycoexistence Com Context](https://apis.io/jsonld/easycoexistence-com/easycoexistence-com-context/)
+
+#### Governance rules (1)
+
+Spectral rulesets for the provider's contracts.
+
+- [easyCoexistence API Rules](https://apis.io/rules/easycoexistence-com/easycoexistence-com-rules/)
+
+#### Security (2)
+
+Authentication, trust centre, and vulnerability disclosure.
+
+- [easyCoexistence Authentication](https://apis.io/security/easycoexistence-com/easycoexistence-com-authentication/)
+- [easyCoexistence Domain Security](https://apis.io/security/easycoexistence-com/easycoexistence-com-domain-security/)
+
+#### Plans and pricing (1)
+
+Published plans, tiers and prices.
+
+- [easyCoexistence Plans Pricing](https://apis.io/plans/easycoexistence-com/easycoexistence-com-plans-pricing/)
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://easycoexistence.com)
+- [Documentation](https://easycoexistence.com/docs/api)
+- [Getting started](https://easycoexistence.com/docs/whatsapp-coexistence-indonesia)
+- [API reference](https://easycoexistence.com/docs/api)
+- [Pricing](https://easycoexistence.com/easycoexistence-pricing)
+- [Sign up](https://easycoexistence.com/signup)
+- [Terms of service](https://easycoexistence.com/terms)
+- [Privacy policy](https://easycoexistence.com/privacy)
+
+## API Evangelist rating
+
+**Kin Score 56.8** — strong · rubric 0.28.0 · scored 2026-11-22
+
+| Facet | Score |
+|---|---|
+| Discoverability | 66.1 |
+| Contract quality | 59.0 |
+| Contract governance | 79.1 |
+| Operational transparency | 21.4 |
+| Developer ergonomics | 54.0 |
+| Access clarity | 59.1 |
+
+**Agent readiness 66.4** — agent-native
+
+| Agent-readiness dimension | Result |
+|---|---|
+| Spec Presence | yes |
+| Agentic Access | unknown |
+| Reversibility Documented | — |
+| MCP Server | documented (partial credit) |
+| Auth Clarity | served (partial credit) |
+| Idempotency | verified |
+| Error Semantics | verified |
+| OpenAPI Examples | verified |
+| Rate Limit Signal | — |
+| Event Surface Described | unknown |
+| Agent Skills | unknown |
+| Well Known Catalog | — |
+| Consent Identity | — |
+| Agent Card | — |
+| Dry Run Mode | — |
+| Delegated Identity | served (partial credit) |
+| Protected Resource Metadata | verified |
+| Dynamic Client Registration | yes |
+| Agentic Commerce | — |
+| Pagination Ratio | na |
+| Operation Distinctiveness | distinct |
+| MCP Tool Quality | na |
+
+**Regulatory alignment 18.6** — Horizontal (data, software, accessibility, platform)
+
+The rubric is published at [github.com/api-evangelist/kin-score](https://github.com/api-evangelist/kin-score). The per-check breakdown behind these numbers — which checks were earned, partial or missed — along with score history and how this provider compares to its peers, is available at [apis.io/providers/easycoexistence-com/](https://apis.io/providers/easycoexistence-com/).
+
+## How this profile is made
+
+API Evangelist profiles a company's public API surface the way a developer would find it: the website, developer portal and documentation, the specifications it publishes, its public repositories, and its pricing, status and changelog pages. From that it derives the properties above — contracts split per API, workflows, schemas, collections, governance rules, plans and rate limits — and scores them against the published [Kin Score rubric](https://github.com/api-evangelist/kin-score).
+
+The artifacts are published on [APIs.io](https://apis.io), not in this repository. This repository is the public record for easyCoexistence: the place to say something is wrong, missing or out of date, and to ask for a re-score or a removal.
+
+## Open an issue
+
+- **Something about this listing** — a wrong description, a missing API, a stale artifact or a question about the rating: [open an issue on this repository](https://github.com/api-evangelist/easycoexistence-com/issues/new).
+- **A new API, or one that is not in the catalog yet** — [submit it on APIs.io](https://apis.io/add/).
+- **Anything else** — [the APIs.io inbox](https://github.com/api-search/inbox/issues/new) or [info@apievangelist.com](mailto:info@apievangelist.com).
